@@ -182,6 +182,8 @@ discord-username-finder/
 This project is intended strictly for educational and research purposes. Automated querying of Discord's API may violate Discord's Terms of Service. Use responsibly and at your own risk.
 
 ---
+## 📄 Support
+* **Support:** If you find **Footprint Audit** useful, consider supporting future updates on [Ko-fi](https://ko-fi.com/drjhn291).
 
 ## 📄 License
 
