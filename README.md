@@ -183,7 +183,7 @@ This project is intended strictly for educational and research purposes. Automat
 
 ---
 ## 📄 Support
-* **Support:** If you find **Footprint Audit** useful, consider supporting future updates on [Ko-fi](https://ko-fi.com/drjhn291).
+* **Support:** If you find **Discord Username Finder** useful, consider supporting future updates on [Ko-fi](https://ko-fi.com/drjhn291).
 
 ## 📄 License
 
